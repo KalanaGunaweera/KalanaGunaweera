@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my GitHub+account!;Where+code+is+written;and+problems+are+solved..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my GitHub+account;Where+code+is+written;and+problems+are+solved..)](https://git.io/typing-svg)
 
 <div>
   <a href="www.linkedin.com/in/kalana-gunaweera-a658a3163">
@@ -8,7 +8,7 @@
 
 ## Hey 👋, I'm [Kalana Gunaweera](https://github.com/KalanaGunaweera)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JayanaGunaweera01.JayanaGunaweera01&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KalanaGunaweera.KalanaGunaweera&style=flat-square&color=0088cc)
 
 I'm a former civil Engineer 🎓 from University of Moratuwa Sri Lanka 🏛. I'm a SE intern @VIRTUSA and a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development.
 <div style="display: flex; align-items: center;">
@@ -24,8 +24,7 @@ I'm a former civil Engineer 🎓 from University of Moratuwa Sri Lanka 🏛. I'm
       <li>💬 &nbsp; Ask me about anything <a href="https://github.com/KalanaGunaweera/KalanaGunaweera/issues">here</a>! I am happy to help.</li>
       <li>👾 &nbsp; Fun fact: I have both expertise in Civil and Software field!.</li>
       <li>📫 &nbsp; How to reach me: kalanagunaweera94gmail.com.</li>
-    
-    </ul>
+     </ul>
      
   </div>
 
