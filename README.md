@@ -36,6 +36,8 @@ I'm a former civil Engineer 🎓 from University of Moratuwa Sri Lanka 🏛. I'm
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🥇 My Hacktoberfest2023 badges
+  [![An image of @kalanagunaweera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kalanagunaweera)](https://holopin.io/@kalanagunaweera) 
 
 ### Languages and Tools:
 
